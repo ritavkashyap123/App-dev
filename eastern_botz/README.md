@@ -1,6 +1,6 @@
 # eastern_botz
 
-A new Flutter project.
+Eastern Botz
 
 ## Getting Started
 
